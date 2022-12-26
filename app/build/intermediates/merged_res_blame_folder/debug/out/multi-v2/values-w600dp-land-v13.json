@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.android.dessertclicker.app-mergeDebugResources-29:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vb.garcia\\.gradle\\caches\\transforms-3\\a776e39dbd302dfd68443c878d9dad19\\transformed\\material-1.7.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
