@@ -1,7 +1,10 @@
-DessertClicker - Code
+Activities and intents
 =====================
 
+
 Code for Android Basics Codelab.
+
+https://developer.android.com/courses/pathways/android-basics-kotlin-unit-3-pathway-1#codelab-https://developer.android.com/codelabs/basic-android-kotlin-training-activity-lifecycle
 
 Introduction
 ------------
@@ -21,8 +24,3 @@ You need to know:
 - What the activity's onCreate() method does, and the kind of operations
   that are performed in that method.
 
-
-Getting Started
----------------
-
-1. Download and run the app.
