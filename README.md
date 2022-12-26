@@ -1,4 +1,4 @@
-Activities and intents
+Stages of the activity lifecycle
 =====================
 
 
